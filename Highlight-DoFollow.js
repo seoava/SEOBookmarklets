@@ -1,0 +1,1 @@
+javascript:var t=document.getElementsByTagName('a');for(i=0;i<t.length;i++){if((t[i].rel.toLowerCase()!='nofollow') | (t[i].rel.toLowerCase()!='external nofollow')){void(t[i].style.color='green');void(t[i].style.background='yellow');void(t[i].style.borderStyle='solid dotted');void(t[i].style.fontSize='2em');}}
