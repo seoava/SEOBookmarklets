@@ -1,0 +1,1 @@
+javascript:void(location.href='https://' + location.host + '/sitemap.xml')

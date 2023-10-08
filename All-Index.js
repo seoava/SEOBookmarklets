@@ -1,0 +1,1 @@
+javascript:(function(){ window.open('http://www.google.com/search?q=site%3A%27+location.host)})();
